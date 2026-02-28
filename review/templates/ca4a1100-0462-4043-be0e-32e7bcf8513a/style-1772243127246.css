@@ -1,0 +1,12 @@
+#t-ca4a1100-0462-4043-be0e-32e7bcf8513a > #backgroundBox {
+  background-color: #FFFFFF;
+  position: absolute;
+}
+#t-ca4a1100-0462-4043-be0e-32e7bcf8513a > #alignmentBox {
+  position: relative;
+}
+#t-ca4a1100-0462-4043-be0e-32e7bcf8513a > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
